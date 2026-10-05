@@ -1,6 +1,6 @@
 # LushShaders
 
-a sapiens mod that makes the game look a bit lusher. thicker haze in the distance, warmer sunlight, improved exposure, water improvements and a noise texture for terrian / built objects
+a sapiens mod that makes the game look a bit lusher. thicker haze in the distance, warmer sunlight, less intense exposure, water improvements and a noise texture for terrian / built objects
 
 works on both Stable 0.6.1.3 and Unstable 0.7.0.2
 
